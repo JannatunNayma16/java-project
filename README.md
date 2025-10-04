@@ -35,8 +35,3 @@ This is a 2-player NIM game project implemented in JavaFX. The game is played on
 1. Run the application.
 2. Follow the game rules to play.
 
-
-
-## Contact
-
-If you have any questions or issues, please don't hesitate to contact me at [your email address].
